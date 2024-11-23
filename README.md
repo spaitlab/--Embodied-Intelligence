@@ -1,5 +1,7 @@
 # Embodied-Lessons
 
+![](./image/page.png)
+
 [基于MWORKS的具身智能建模与仿真	](#_Toc7810 )
 
 [第一章 具身智能概述	](#_Toc17625 )
