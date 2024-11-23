@@ -1,4 +1,4 @@
-# Embodied-Lessons
+# Embodied-Intelligent-Toolbox
 
 ![](./image/page.png)
 
