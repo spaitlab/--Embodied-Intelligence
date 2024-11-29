@@ -1,4 +1,5 @@
 # Embodied-Intelligent-Toolbox
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 
 ![](./image/page.png)
 
