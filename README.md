@@ -1,6 +1,6 @@
 # Embodied-Intelligent-Toolbox
-![](https://img.shields.io/badge/Tool-MWORKS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Compute-Syslab-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=3B66BC)
+![](https://img.shields.io/badge/Tool-MWORKS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) &nbsp; &nbsp;
+![](https://img.shields.io/badge/Compute-Syslab-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=3B66BC)&nbsp; &nbsp;
 ![](https://img.shields.io/badge/control-Sysblock-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=FF9E0F)
 
 ![](./image/page.png)
